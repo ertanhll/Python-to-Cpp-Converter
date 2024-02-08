@@ -1,0 +1,12 @@
+void main()
+{
+	int a_int,b_int;
+	float a_flt,b_flt;
+	string a_str;
+
+	a_int = 3;
+	a_str = "ali";
+	b_int = 12;
+	a_flt = 3.14;
+	b_flt = 2.1;
+}
